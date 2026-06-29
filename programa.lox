@@ -1,0 +1,10 @@
+
+
+fun abduscan(donde){
+    print donde;
+}
+
+abduscan(1);
+abduscan("1");
+abduscan(true);
+

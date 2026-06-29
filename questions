@@ -1,0 +1,5 @@
+1. ¿Soporta recursión? Sí
+2. ¿Cómo se maneja el uso de excepciones? Quizá con bloques try-catch
+3. ¿Habrá cast y comprobación de tipo? Debería haber
+
+Polimorfismo, herencia múltiple, genericidad...
